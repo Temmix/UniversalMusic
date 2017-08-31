@@ -1,0 +1,13 @@
+C:\Users\Fierce PC\Desktop\UniversalMusic\GRM\GRM\bin\Debug\GRM.exe.config
+C:\Users\Fierce PC\Desktop\UniversalMusic\GRM\GRM\bin\Debug\Files\MusicContracts.txt
+C:\Users\Fierce PC\Desktop\UniversalMusic\GRM\GRM\bin\Debug\Files\PartnerContracts.txt
+C:\Users\Fierce PC\Desktop\UniversalMusic\GRM\GRM\bin\Debug\GRM.exe.manifest
+C:\Users\Fierce PC\Desktop\UniversalMusic\GRM\GRM\bin\Debug\GRM.application
+C:\Users\Fierce PC\Desktop\UniversalMusic\GRM\GRM\bin\Debug\GRM.exe
+C:\Users\Fierce PC\Desktop\UniversalMusic\GRM\GRM\bin\Debug\GRM.pdb
+C:\Users\Fierce PC\Desktop\UniversalMusic\GRM\GRM\bin\Debug\Ninject.dll
+C:\Users\Fierce PC\Desktop\UniversalMusic\GRM\GRM\bin\Debug\Ninject.xml
+C:\Users\Fierce PC\Desktop\UniversalMusic\GRM\GRM\obj\Debug\GRM.exe.manifest
+C:\Users\Fierce PC\Desktop\UniversalMusic\GRM\GRM\obj\Debug\GRM.application
+C:\Users\Fierce PC\Desktop\UniversalMusic\GRM\GRM\obj\Debug\GRM.exe
+C:\Users\Fierce PC\Desktop\UniversalMusic\GRM\GRM\obj\Debug\GRM.pdb

@@ -1,0 +1,15 @@
+C:\Users\Fierce PC\Desktop\UniversalMusic\GRM\GRM.TEST\bin\Release\Files\MusicContracts.txt
+C:\Users\Fierce PC\Desktop\UniversalMusic\GRM\GRM.TEST\bin\Release\Files\PartnerContracts.txt
+C:\Users\Fierce PC\Desktop\UniversalMusic\GRM\GRM.TEST\bin\Release\GRM.TEST.dll
+C:\Users\Fierce PC\Desktop\UniversalMusic\GRM\GRM.TEST\bin\Release\GRM.TEST.pdb
+C:\Users\Fierce PC\Desktop\UniversalMusic\GRM\GRM.TEST\bin\Release\Castle.Core.dll
+C:\Users\Fierce PC\Desktop\UniversalMusic\GRM\GRM.TEST\bin\Release\GRM.exe
+C:\Users\Fierce PC\Desktop\UniversalMusic\GRM\GRM.TEST\bin\Release\Moq.dll
+C:\Users\Fierce PC\Desktop\UniversalMusic\GRM\GRM.TEST\bin\Release\Ninject.dll
+C:\Users\Fierce PC\Desktop\UniversalMusic\GRM\GRM.TEST\bin\Release\GRM.pdb
+C:\Users\Fierce PC\Desktop\UniversalMusic\GRM\GRM.TEST\bin\Release\Moq.pdb
+C:\Users\Fierce PC\Desktop\UniversalMusic\GRM\GRM.TEST\bin\Release\Moq.xml
+C:\Users\Fierce PC\Desktop\UniversalMusic\GRM\GRM.TEST\bin\Release\Ninject.xml
+C:\Users\Fierce PC\Desktop\UniversalMusic\GRM\GRM.TEST\obj\Release\GRM.TEST.csprojResolveAssemblyReference.cache
+C:\Users\Fierce PC\Desktop\UniversalMusic\GRM\GRM.TEST\obj\Release\GRM.TEST.dll
+C:\Users\Fierce PC\Desktop\UniversalMusic\GRM\GRM.TEST\obj\Release\GRM.TEST.pdb

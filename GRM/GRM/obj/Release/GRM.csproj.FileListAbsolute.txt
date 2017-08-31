@@ -1,0 +1,13 @@
+C:\Users\Fierce PC\Desktop\UniversalMusic\GRM\GRM\bin\Release\Files\MusicContracts.txt
+C:\Users\Fierce PC\Desktop\UniversalMusic\GRM\GRM\bin\Release\Files\PartnerContracts.txt
+C:\Users\Fierce PC\Desktop\UniversalMusic\GRM\GRM\bin\Release\GRM.exe.config
+C:\Users\Fierce PC\Desktop\UniversalMusic\GRM\GRM\bin\Release\GRM.exe.manifest
+C:\Users\Fierce PC\Desktop\UniversalMusic\GRM\GRM\bin\Release\GRM.application
+C:\Users\Fierce PC\Desktop\UniversalMusic\GRM\GRM\bin\Release\GRM.exe
+C:\Users\Fierce PC\Desktop\UniversalMusic\GRM\GRM\bin\Release\GRM.pdb
+C:\Users\Fierce PC\Desktop\UniversalMusic\GRM\GRM\bin\Release\Ninject.dll
+C:\Users\Fierce PC\Desktop\UniversalMusic\GRM\GRM\bin\Release\Ninject.xml
+C:\Users\Fierce PC\Desktop\UniversalMusic\GRM\GRM\obj\Release\GRM.exe.manifest
+C:\Users\Fierce PC\Desktop\UniversalMusic\GRM\GRM\obj\Release\GRM.application
+C:\Users\Fierce PC\Desktop\UniversalMusic\GRM\GRM\obj\Release\GRM.exe
+C:\Users\Fierce PC\Desktop\UniversalMusic\GRM\GRM\obj\Release\GRM.pdb
